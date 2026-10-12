@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy<1.16
+scikit-learn
+catboost
+xgboost
+statsmodels
+stumpy
+torch
+PyWavelets
+ssalib
+threadpoolctl
